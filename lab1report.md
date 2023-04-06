@@ -15,6 +15,12 @@ Remotell connecting
 
 * use this formate: ssh cs15lsp23xx@ieng6.ucsd.edu
 * select YES
+
+⤇ ssh cs15lwi23zz@ieng6.ucsd.edu
+The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+Are you sure you want to continue connecting (yes/no/[fingerprint])?
+
 * enter you password(same as reset password)
 * If successful there will be information appear/if not there will be password entering again
 
