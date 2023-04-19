@@ -2,13 +2,13 @@
 
 CSE15L account tutorial
 
-* find account: https://sdacs.ucsd.edu/~icc/index.php
-* reset password: https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit
+* find account: [Link](https://sdacs.ucsd.edu/~icc/index.php)
+* reset password: [Link](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
 * wait 15mins to let reset finished
 
 1. Installing VScode 
 
-* vscode download: https://code.visualstudio.com/
+* vscode download: [Link](https://code.visualstudio.com/)
 * I already finished installation during CSE11
 * No more addition needed
 <img width="1728" alt="截屏2023-04-05 下午5 14 00" src="https://user-images.githubusercontent.com/114201575/230249198-cd6c26f8-a149-4177-b0a6-81ac76d411a8.png">
