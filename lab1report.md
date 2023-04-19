@@ -14,7 +14,8 @@ CSE15L account tutorial
 <img width="1728" alt="截屏2023-04-05 下午5 14 00" src="https://user-images.githubusercontent.com/114201575/230249198-cd6c26f8-a149-4177-b0a6-81ac76d411a8.png">
 2. Remotely Connecting
 
-* use this code to log in: ssh cs15lsp23xx@ieng6.ucsd.edu
+* use this code to log in: 
+# code block ssh cs15lsp23xx@ieng6.ucsd.edu
 * replace xx with personal code
 * select YES
 
