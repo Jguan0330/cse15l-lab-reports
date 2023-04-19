@@ -3,9 +3,9 @@
 CSE15L account tutorial
 
 Is is very important to find you cse15l account! The following steps will teach you how to find your personal account.
-1. find account: [Link](https://sdacs.ucsd.edu/~icc/index.php)
-2. reset password: [Link](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
-3. wait 15mins to let reset finished
+* find account: [Link](https://sdacs.ucsd.edu/~icc/index.php)
+* reset password: [Link](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
+* wait 15mins to let reset finished
 
 1. Installing VScode 
 
