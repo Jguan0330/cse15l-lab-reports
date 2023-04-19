@@ -21,7 +21,7 @@ Many people usually fail in find the account because they cannot log into remote
 
 * use this code to log in: 
 ```
-# replace xx with personal code! e.g. cs15lsp23zz@ieng6.ucsd.ed 
+# replace xx with personal code! e.g. cs15lsp23zz@ieng6.ucsd.edu 
 ssh cs15lsp23xx@ieng6.ucsd.edu
 ```
 * This message might appear on your computer if it is the first time you connect to this server.
