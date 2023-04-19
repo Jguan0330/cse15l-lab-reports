@@ -41,32 +41,25 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ## 3. Trying Some Commands
 We need to know how this remote terminal works. So here are some fundamental but essential commands you need will find useful!
 
-* command pwd
-The pwd command writes to standard output the full path name of your current directory (from the root directory). All directories are separated by a / (slash). 
+* The **pwd** command writes to standard output the full path name of your current directory (from the root directory). All directories are separated by a / (slash). 
 <img width="334" alt="截屏2023-04-19 下午4 10 07" src="https://user-images.githubusercontent.com/114201575/233219128-752f9315-01c8-4ae9-8c37-54daf914823e.png">
 
-* command ls
-The ls command is used to list files or directories in Linux and other Unix-based operating systems.
+* The **ls** command is used to list files or directories in Linux and other Unix-based operating systems.
 <img width="332" alt="截屏2023-04-19 下午4 10 30" src="https://user-images.githubusercontent.com/114201575/233219172-d4286638-2fe4-4a9c-abf6-d8d96288873e.png">
 
-* command cd <path>
-The cd command, also known as chdir (change directory), is a command-line shell command used to change the current working directory in various operating systems.
+* The **cd** command, also known as chdir (change directory), is a command-line shell command used to change the current working directory in various operating systems.
 <img width="945" alt="截屏2023-04-19 下午4 10 56" src="https://user-images.githubusercontent.com/114201575/233219253-34d6309d-aa27-4532-87f7-89c970c644f6.png">
   
-* command cp <file path>
-The cp command to create a copy of the contents of the file or directory specified by the SourceFile or SourceDirectory parameters into the file or directory specified by the TargetFile or TargetDirectory parameters.
+* The **cp** command will create a copy of the contents of the file or directory specified by the SourceFile or SourceDirectory parameters into the file or directory specified by the TargetFile or TargetDirectory parameters.
 <img width="949" alt="截屏2023-04-19 下午4 20 00" src="https://user-images.githubusercontent.com/114201575/233220084-edda4f62-9a9a-413d-b15a-b5f591d92bc1.png">
 
-* command cd .. 
-The cd .. command will help you to go up one level of the directory tree. 
+* The **cd ..** command will help you to go up one level of the directory tree. 
 <img width="323" alt="截屏2023-04-19 下午4 20 08" src="https://user-images.githubusercontent.com/114201575/233220128-84008098-7bf5-4b6a-b8de-0c4345efadc7.png">
   
-* command cat <file path>
-The cat command reads each File parameter in sequence and writes it to standard output. If you do not specify a file name, the cat command reads from standard input.
+* The **cat** command reads each File parameter in sequence and writes it to standard output. If you do not specify a file name, the cat command reads from standard input.
 <img width="330" alt="截屏2023-04-19 下午4 23 36" src="https://user-images.githubusercontent.com/114201575/233220363-7af37503-954a-469c-91de-9ee5abaa475e.png">
  
-* command exit
-The command exit is to disconnect the connection between your computer and remote servicor.
+* The **exit** command is to disconnect the connection between your computer and remote servicor.
 <img width="334" alt="截屏2023-04-19 下午4 25 53" src="https://user-images.githubusercontent.com/114201575/233220667-a6498b33-e189-4273-a9b5-1865a7bc0aaf.png">
 
 * a series of commands like cd, ls, pwd, mkdir, and cp.
