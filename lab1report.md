@@ -15,7 +15,10 @@ CSE15L account tutorial
 2. Remotely Connecting
 
 * use this code to log in: 
-# code block ssh cs15lsp23xx@ieng6.ucsd.edu
+```
+# code block 
+ssh cs15lsp23xx@ieng6.ucsd.edu
+```
 * replace xx with personal code
 * select YES
 
