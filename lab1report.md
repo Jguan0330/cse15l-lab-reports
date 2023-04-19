@@ -16,6 +16,7 @@ Many people usually fail in find the account because they cannot log into remote
 * If you took CSE11 Before, you can skip the vscode setup!
 * I already finished installation during CSE11 so I skip this process.
 <img width="1728" alt="截屏2023-04-05 下午5 14 00" src="https://user-images.githubusercontent.com/114201575/230249198-cd6c26f8-a149-4177-b0a6-81ac76d411a8.png">
+
 ## 2. Remotely Connecting
 
 * use this code to log in: 
