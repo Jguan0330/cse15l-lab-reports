@@ -56,6 +56,9 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
   
 * command cat <file path>
 <img width="330" alt="截屏2023-04-19 下午4 23 36" src="https://user-images.githubusercontent.com/114201575/233220363-7af37503-954a-469c-91de-9ee5abaa475e.png">
+ 
+* command exit
+<img width="334" alt="截屏2023-04-19 下午4 25 53" src="https://user-images.githubusercontent.com/114201575/233220667-a6498b33-e189-4273-a9b5-1865a7bc0aaf.png">
 
 * a series of commands like cd, ls, pwd, mkdir, and cp.
 <img width="1728" alt="截屏2023-04-05 下午6 02 42" src="https://user-images.githubusercontent.com/114201575/230249210-97501740-7edb-46e2-a396-cf2f949f6bd9.png">
