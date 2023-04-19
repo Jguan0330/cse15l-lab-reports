@@ -41,10 +41,13 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ## 3. Trying Some Commands
 * command pwd
 <img width="334" alt="截屏2023-04-19 下午4 10 07" src="https://user-images.githubusercontent.com/114201575/233219128-752f9315-01c8-4ae9-8c37-54daf914823e.png">
+
 * command ls
 <img width="332" alt="截屏2023-04-19 下午4 10 30" src="https://user-images.githubusercontent.com/114201575/233219172-d4286638-2fe4-4a9c-abf6-d8d96288873e.png">
+
 * command cd <path>
 <img width="945" alt="截屏2023-04-19 下午4 10 56" src="https://user-images.githubusercontent.com/114201575/233219253-34d6309d-aa27-4532-87f7-89c970c644f6.png">
+  
 * a series of commands like cd, ls, pwd, mkdir, and cp.
 <img width="1728" alt="截屏2023-04-05 下午6 02 42" src="https://user-images.githubusercontent.com/114201575/230249210-97501740-7edb-46e2-a396-cf2f949f6bd9.png">
 
