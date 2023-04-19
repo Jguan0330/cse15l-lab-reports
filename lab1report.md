@@ -23,13 +23,14 @@ Many people usually fail in find the account because they cannot log into remote
 # replace xx with personal code! e.g. cs15lsp23zz@ieng6.ucsd.ed 
 ssh cs15lsp23xx@ieng6.ucsd.edu
 ```
-* select YES
-
+* This message might appear on your computer if it is the first time you connect to this server.
+```
+# 
 ⤇ ssh cs15lwi23zz@ieng6.ucsd.edu
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?
-
+```
 * enter you password(same as reset password)
 * If successful there will be information appear/if not you need to enter password again or wait until password successfully reset
 * hint: you can log in you account in lab computer username:/password: to sure your password already reset!
