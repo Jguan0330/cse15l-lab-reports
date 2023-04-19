@@ -4,7 +4,7 @@ CSE15L account tutorial
 
 Is is very important to find you CSE15L account! The following steps will teach you how to find your personal account.
 * find your personal CSE15L account: [Link](https://sdacs.ucsd.edu/~icc/index.php)
-* reset password: [https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
+* reset password: [Link](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
 * here is a tutorial: [Link](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view)
 * wait 15mins to let reset finished :) 
 # Be patient!!!
