@@ -16,10 +16,9 @@ CSE15L account tutorial
 
 * use this code to log in: 
 ```
-# code block 
+# replace xx with personal code 
 ssh cs15lsp23xx@ieng6.ucsd.edu
 ```
-* replace xx with personal code
 * select YES
 
 ⤇ ssh cs15lwi23zz@ieng6.ucsd.edu
