@@ -48,6 +48,15 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 * command cd <path>
 <img width="945" alt="截屏2023-04-19 下午4 10 56" src="https://user-images.githubusercontent.com/114201575/233219253-34d6309d-aa27-4532-87f7-89c970c644f6.png">
   
+* command cp <file path>
+<img width="949" alt="截屏2023-04-19 下午4 20 00" src="https://user-images.githubusercontent.com/114201575/233220084-edda4f62-9a9a-413d-b15a-b5f591d92bc1.png">
+
+* command cd .. 
+<img width="323" alt="截屏2023-04-19 下午4 20 08" src="https://user-images.githubusercontent.com/114201575/233220128-84008098-7bf5-4b6a-b8de-0c4345efadc7.png">
+  
+* command cat <file path>
+<img width="330" alt="截屏2023-04-19 下午4 23 36" src="https://user-images.githubusercontent.com/114201575/233220363-7af37503-954a-469c-91de-9ee5abaa475e.png">
+
 * a series of commands like cd, ls, pwd, mkdir, and cp.
 <img width="1728" alt="截屏2023-04-05 下午6 02 42" src="https://user-images.githubusercontent.com/114201575/230249210-97501740-7edb-46e2-a396-cf2f949f6bd9.png">
 
