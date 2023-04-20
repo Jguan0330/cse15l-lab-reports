@@ -11,14 +11,14 @@ It is very important to find you CSE15L account! The following steps will teach 
 Many people usually fail in find the account because they cannot log into remote service. One tip is that your can test your account and your new password through LAB computer to ensure you already reset your account!
 
 ## 1. Installing VScode 
-
+There is always first priority for code writer to have a good tool. VScode is lightweight and powerful and can be easily installed on any platform. VS Code has built-in support for Node. js, TypeScript, and JavaScript and a feature-rich extension ecosystem for different languages like C++, Java, C#, PHP, Go, and Python. Let's looks at how to install VScode
 * vscode download: [Link](https://code.visualstudio.com/)
 * If you took CSE11 Before, you can skip the vscode setup!
 * I already finished installation during CSE11 so I skip this process.
 <img width="1728" alt="截屏2023-04-05 下午5 14 00" src="https://user-images.githubusercontent.com/114201575/230249198-cd6c26f8-a149-4177-b0a6-81ac76d411a8.png">
 
 ## 2. Remotely Connecting
-
+A terminal, also known as a command-line interface, provides several benefits over a graphical user interface (GUI). Firstly, it is more efficient as it allows for faster execution of commands and can perform a wide range of tasks, from simple file manipulation to complex scripting and automation. Secondly, it enables remote access to servers and computers, making it a convenient tool for system administrators. Additionally, terminals use fewer system resources than a GUI, making it a better choice for systems with limited resources. Furthermore, terminals provide a powerful environment for scripting and automation, simplifying and streamlining repetitive tasks. Finally, terminals can be customized to suit specific needs, extending their functionality.
 * You can use this code to log in remote servior: 
 ```
 # You can replace xx with personal code! e.g. cs15lsp23zz@ieng6.ucsd.edu 
