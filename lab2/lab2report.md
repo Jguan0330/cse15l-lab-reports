@@ -10,5 +10,35 @@
 
 ## part2
 
+```
+#failed test
+@Test
+  public void testReversedore() {
+    int[] input1 = {1,3,5,7};
+    assertArrayEquals(new int[]{ 7,5,3,1}, ArrayExamples.reversed(input1));
+  }
+```
+
+
+```
+# not fail test
+ @Test
+  public void testReversed() {
+    int[] input1 = { };
+    assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
+  }
+```
+
+```
+#fixed code
+  static int[] reversed(int[] arr) {
+    int[] newArray = new int [arr.length];
+    for(int i = 0; i < arr.length; i += 1) {
+      newArray[i] = arr[arr.length - i - 1];
+    }
+    return newArray;
+  }
+```
+
 ## part3
 
