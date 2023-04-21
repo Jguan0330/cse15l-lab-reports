@@ -43,7 +43,7 @@ I create a web server to have the function to store String values given by URL p
 ```
 
 ```
-# not fail test
+# not failed test
  @Test
   public void testReversed() {
     int[] input1 = { };
