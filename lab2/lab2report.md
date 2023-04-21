@@ -1,6 +1,6 @@
 # lab2report (week3)
 
-## part1
+## Part1
 
 I create a web server to have the function to store String values given by URL path and show the current and previous String values in the website.
 
@@ -31,7 +31,7 @@ I create a web server to have the function to store String values given by URL p
 <br>The website alreadly store my previous values {Hello,jgua,fasdfadsf,ppap}:
 <br><img width="476" alt="截屏2023-04-21 上午10 08 05" src="https://user-images.githubusercontent.com/114201575/233698162-30d8c869-d876-4ef3-9e9a-367825b604fb.png">
 
-## part2
+## Part2
 
 ```
 #failed test
@@ -76,5 +76,5 @@ I create a web server to have the function to store String values given by URL p
 
 <br>This code intends to create a method named reversed that takes an array of integers arr as input and returns a reversed version of it. However, there is a bug in the implementation. The loop tries to reverse the elements of the input array arr by directly assigning the reversed elements to arr. But instead of setting values from arr to newArray, it unintentionally gives values from newArray (all uninitialized and have default values of 0) to arr. This will result in the original arr being overwritten with all zeros. To fix this bug, we should assign values from arr to newArray in reverse order and then return newArray:
 
-## part3
+## Part3
 In the previous two weeks, we discussed two docs of Java code. In Week 2, I wrote a web server in a local host. I learned how to write a class named Handler that implemented the URLHandler interface, examined the methods for handling a request, and identified how relevant fields change upon specific requests. In week 3, we talked about fixing our bugs using Junit and tried to debug some methods. For example, the method reversed, which aimed to reverse an integer array but incorrectly overwrote the original array. I successfully identified the bug by JUnit.
