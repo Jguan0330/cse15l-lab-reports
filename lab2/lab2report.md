@@ -5,7 +5,7 @@
 I create a web server to have the function to store String values given by URL path and show the current and previous String values in the website.
 ```
 #here is the method I used:
-getPath(), contains(), getQuery(), split(), equals(), add(), ArrayList. String.join()
+getPath(), contains(), getQuery(), split(), equals(), add(), ArrayList,  and String.join()
 ```
 <br><img width="765" alt="截屏2023-04-21 上午10 07 09" src="https://user-images.githubusercontent.com/114201575/233698106-3ad0516c-ce04-4e03-aff8-0677fb3cafa3.png">
 <br>This is a example that I input {Junzheng Guan}, 
