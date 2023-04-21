@@ -3,11 +3,22 @@
 ## part1
 
 I create a web server to have the function to store String values given by URL path and show the current and previous String values in the website.
-```
-#here is the method I used:
-getPath(), contains(), getQuery(), split(), equals(), add(), ArrayList,  and String.join()
-```
+
 <br><img width="765" alt="截屏2023-04-21 上午10 07 09" src="https://user-images.githubusercontent.com/114201575/233698106-3ad0516c-ce04-4e03-aff8-0677fb3cafa3.png">
+<br>In the code, when a request is handled by the handleRequest method, the following methods are called:
+1. url.getPath(): It is called to get the path of the given URI.
+2. url.getQuery(): It is called to get the query part of the given URI.
+3. String.split(): It is called to split the query into parameters based on the equal sign ("=").
+4. ArrayList.add(): It is called to add a new message to the arr ArrayList.
+5. String.join(): It is called to concatenate all the elements in the arr ArrayList with a newline separator ("\n").
+<br>Relevant arguments to these methods and values of relevant fields:
+1. url: It is a URI object passed to the handleRequest method.
+2. arr: It is an ArrayList of strings used to store the messages. Its value will change as new messages are added.
+3. i: It is an integer variable used to store the number of messages in the arr ArrayList.
+<br>How the values of relevant fields of the class change from this specific request:
+1. If the path of the URI contains "/add-message" and the parameter key is "s", the method adds the value of the "s" parameter to the arr ArrayList and increments the i variable by 1.
+2. If the conditions are not met (the path does not contain "/add-message" or the parameter key is not "s"), the arr ArrayList and the i variable remain unchanged.
+3. If the conditions are not met, the values don't change because the code doesn't execute the operations to add messages to the arr ArrayList and increment the i variable. Instead, it returns the "404 Not Found!" message.
 <br>This is a example that I input {Junzheng Guan}, 
 <br>The website alreadly store my previous values {Hello,jgua,fasdfadsf,ppap}:
 <br><img width="489" alt="截屏2023-04-21 上午10 07 48" src="https://user-images.githubusercontent.com/114201575/233698137-bd7ebc07-c98a-4bc7-8fbe-d2cda1547fae.png">
