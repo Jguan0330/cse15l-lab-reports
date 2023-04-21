@@ -62,6 +62,7 @@ I create a web server to have the function to store String values given by URL p
   }
 ```
 <br><img width="1320" alt="截屏2023-04-21 上午10 50 00" src="https://user-images.githubusercontent.com/114201575/233702277-f4ba80cb-cfab-47cb-a692-47a01c6d516f.png">
+<br>This code intends to create a method named reversed that takes an array of integers arr as input and returns a reversed version of it. However, there is a bug in the implementation. The loop tries to reverse the elements of the input array arr by directly assigning the reversed elements to arr. But instead of setting values from arr to newArray, it unintentionally gives values from newArray (all uninitialized and have default values of 0) to arr. This will result in the original arr being overwritten with all zeros. To fix this bug, we should assign values from arr to newArray in reverse order and then return newArray:
 
 ```
 #fixed code
