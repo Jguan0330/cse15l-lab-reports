@@ -39,6 +39,7 @@
     return arr;
   }
 ```
+<img width="1320" alt="截屏2023-04-21 上午10 50 00" src="https://user-images.githubusercontent.com/114201575/233702277-f4ba80cb-cfab-47cb-a692-47a01c6d516f.png">
 
 ```
 #fixed code
@@ -50,6 +51,7 @@
     return newArray;
   }
 ```
+<img width="1315" alt="截屏2023-04-21 上午10 50 58" src="https://user-images.githubusercontent.com/114201575/233702424-8d767e23-eff8-41cb-9d7c-0485a0501bf8.png">
 
 ## part3
 
