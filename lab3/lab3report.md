@@ -12,3 +12,4 @@ less -pbio find-results.txt
 ```
 [source](https://phoenixnap.com/kb/less-command-in-linux)\\
 <img width="539" alt="截屏2023-05-05 下午12 15 07" src="https://user-images.githubusercontent.com/114201575/236549996-042e68fa-4c68-4b6b-8b13-a8fde351287e.png">
+<img width="604" alt="截屏2023-05-05 下午12 17 16" src="https://user-images.githubusercontent.com/114201575/236550206-7bf799fb-2527-4f4c-97af-8e4ba16b820a.png">
