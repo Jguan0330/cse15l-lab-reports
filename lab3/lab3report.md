@@ -29,11 +29,13 @@ The -s option squeezes multiple blank lines from a text file into one blank line
 ```
 less -s technical/biomed/1468-6708-3-1.txt
 ```
+[source](https://phoenixnap.com/kb/less-command-in-linux)
 <br><img width="1728" alt="截屏2023-05-05 下午12 35 48" src="https://user-images.githubusercontent.com/114201575/236553511-599fca65-8b2e-40b0-81d0-1cbc0ffc8b02.png">
 
 ```
 less -s technical/911report/chapter-1.txt
 ```
+[source](https://phoenixnap.com/kb/less-command-in-linux)
 <br><img width="1728" alt="截屏2023-05-05 下午12 39 28" src="https://user-images.githubusercontent.com/114201575/236554118-60e07de7-ab06-4c2d-8e68-9053b50893f2.png">
 
 ## 4.Keep Content on Screen After Quitting
@@ -41,11 +43,13 @@ After quitting less, the terminal window clears, removing the file output. To le
 ```
 less -X find-results.txt
 ```
+[source](https://phoenixnap.com/kb/less-command-in-linux)
 <br><img width="553" alt="截屏2023-05-05 下午2 34 56" src="https://user-images.githubusercontent.com/114201575/236572829-fdf771cd-5826-406d-8e59-0660d84ac4dd.png">
 
 
 ```
 less -X technical/911report/chapter-1.txt
 ```
+[source](https://phoenixnap.com/kb/less-command-in-linux)
 <br><img width="627" alt="截屏2023-05-05 下午2 35 30" src="https://user-images.githubusercontent.com/114201575/236572837-e9420fc5-0bc4-4bf3-86e5-e5432cf1c404.png">
 
