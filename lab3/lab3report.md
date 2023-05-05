@@ -22,3 +22,15 @@ less -preport find-results.txt
 ```
 [source](https://phoenixnap.com/kb/less-command-in-linux)
 <br><img width="604" alt="截屏2023-05-05 下午12 17 16" src="https://user-images.githubusercontent.com/114201575/236550206-7bf799fb-2527-4f4c-97af-8e4ba16b820a.png">
+
+
+
+```
+less -s technical/biomed/1468-6708-3-1.txt
+```
+<img width="1728" alt="截屏2023-05-05 下午12 35 48" src="https://user-images.githubusercontent.com/114201575/236553511-599fca65-8b2e-40b0-81d0-1cbc0ffc8b02.png">
+
+```
+less -s technical/911report/chapter-1.txt
+```
+<img width="1728" alt="截屏2023-05-05 下午12 39 28" src="https://user-images.githubusercontent.com/114201575/236554118-60e07de7-ab06-4c2d-8e68-9053b50893f2.png">
