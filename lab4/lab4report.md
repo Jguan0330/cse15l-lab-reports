@@ -25,7 +25,16 @@ ls
 
 ## step6:Run the tests, demonstrating that they fail
 <img width="698" alt="截屏2023-05-19 上午11 45 12" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/563ce748-97f7-444e-9ace-2540edcf71d0">
-<br>
+
+```
+# enter lab7
+cd lab7
+#check current place
+ls
+# run the test
+bash test.sh
+
+```
 ## step7:Edit the code file ListExamples.java to fix the failing test (as a reminder, the error in the code is just that index1 is used instead of index2 in the final loop in merge)
 
 ## step8:Run the tests, demonstrating that they now succeed
