@@ -23,7 +23,7 @@ ls
 
 ```
 # git clone file from my repositry
-git clone https://github.com/Jguan0330/lab7.git
+git clone git@github.com:Jguan0330/lab7.git
 <enter>
 #check clone
 ls
