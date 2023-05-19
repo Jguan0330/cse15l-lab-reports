@@ -6,11 +6,15 @@
 #code use
 #access to remore
 ssh cs15lsp23ce@ieng6.ucsd.edu
+<enter>
 ls
+<enter>
 #delete used lab7 file
 rm -rf lab7
+<enter>
 #check deletion
 ls
+<enter>
 ```
 
 ## step5: Clone your fork of the repository from your Github account
@@ -19,8 +23,10 @@ ls
 ```
 # git clone file from my repositry
 git clone https://github.com/Jguan0330/lab7.git
+<enter>
 #check clone
 ls
+<enter>
 ```
 
 ## step6:Run the tests, demonstrating that they fail
@@ -29,24 +35,26 @@ ls
 ```
 # enter lab7
 cd lab7
+<enter>
 #check current place
 ls
+<enter>
 # run the test
 bash test.sh
+<enter>
 
 ```
 ## step7:Edit the code file ListExamples.java to fix the failing test (as a reminder, the error in the code is just that index1 is used instead of index2 in the final loop in merge)
 <img width="806" alt="截屏2023-05-19 下午2 17 31" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/e8d89198-0864-49b8-b6a3-3db55c837d01">
 
-
 ```
 (cursor should be at top-left)
-esc
+<esc>
 43j
 11l
 r2
 :wq
-Enter
+<enter>
 
 ```
 
@@ -55,6 +63,7 @@ Enter
 
 ```
 bash test.sh
+<enter>
 ```
 
 ## step9:Commit and push the resulting change to your Github account
