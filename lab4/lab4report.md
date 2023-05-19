@@ -77,6 +77,7 @@ git commit --amend
 <enter>
 <Esc>
 :wq
+<enter>
 git config --global pull.rebase true
 <enter>
 git pull git@github.com:Jguan0330/lab7.git main
