@@ -71,6 +71,7 @@ bash test.sh
 <img width="589" alt="截屏2023-05-19 下午3 24 15" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/0c51ae1e-840f-4206-90b5-a8dfb77f2336">
 
 <img width="596" alt="截屏2023-05-19 下午3 24 02" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/dd039a17-4b85-42c2-82dd-6600609f84e8">
+
 ```
 git commit --amend
 <enter>
