@@ -18,7 +18,8 @@ ls
 ```
 
 ## step5: Clone your fork of the repository from your Github account
-<img width="632" alt="截屏2023-05-19 上午11 44 08" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/daee5b30-bece-48b9-8d0a-b890a8de5f7d">
+<img width="636" alt="截屏2023-05-19 下午2 47 56" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/bd35c3e4-2b2e-421a-9e15-4b94ef1bf99e">
+
 
 ```
 # git clone file from my repositry
