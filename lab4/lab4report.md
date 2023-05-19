@@ -36,7 +36,25 @@ bash test.sh
 
 ```
 ## step7:Edit the code file ListExamples.java to fix the failing test (as a reminder, the error in the code is just that index1 is used instead of index2 in the final loop in merge)
+<img width="806" alt="截屏2023-05-19 下午2 17 31" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/e8d89198-0864-49b8-b6a3-3db55c837d01">
+
+
+```
+(cursor should be at top-left)
+esc
+43j
+11l
+r2
+:wq
+Enter
+
+```
 
 ## step8:Run the tests, demonstrating that they now succeed
+<img width="874" alt="截屏2023-05-19 下午2 16 27" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/fd09b35e-522a-450c-84ab-6c1230ef41fa">
 
-#step9:Commit and push the resulting change to your Github account
+```
+bash test.sh
+```
+
+## step9:Commit and push the resulting change to your Github account
