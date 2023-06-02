@@ -18,7 +18,7 @@ ls
 <enter>
 ```
 ## explain of ssh key(copy from week7 page)
-#link below https://ucsd-cse15l-s23.github.io/week/week7/
+#link below [link](https://ucsd-cse15l-s23.github.io/week/week7/)
 1. In your local terminal, run ssh-keygen
 2. Keep entering <Enter> until the program shows some text it calles the “randomart image”.
 Note the path where the public key is saved (underlined below).
