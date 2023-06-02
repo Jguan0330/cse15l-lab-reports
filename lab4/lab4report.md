@@ -17,7 +17,19 @@ rm -rf lab7
 ls
 <enter>
 ```
-
+## explain of ssh key
+1. In your local terminal, run ssh-keygen
+2. Keep entering <Enter> until the program shows some text it calles the “randomart image”.
+Note the path where the public key is saved (underlined below).
+Image
+3. Now, log into your remote course specific account on ieng6
+4. Run mkdir .ssh in the terminal
+5. Logout of your remote account
+6. Now, we want to copy the public SSH key you created onto your remote account, specifically inside the .ssh directory you just created, in a file called authorized_keys.
+7. Scroll up a bit to where you were creating the SSH key, find the line where it says: Your public key has been saved in: <path to your public SSH key>, copy the path. Make sure you get the public key file, ending in .pub, here, not the private file.
+8. From your local computer, run scp <path to your public SSH key> cs15lsp23__@ieng6.ucsd.edu:~/.ssh/authorized_keys
+Enter password when prompted (this will be the last time you have to type it!)
+  
 ## step5: Clone your fork of the repository from your Github account
 <img width="636" alt="截屏2023-05-19 下午2 47 56" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/bd35c3e4-2b2e-421a-9e15-4b94ef1bf99e">
 
