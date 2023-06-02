@@ -32,5 +32,7 @@ here is the file in grading-area before:
   
 <br>after solution:
 <br><img width="329" alt="截屏2023-06-02 下午2 21 09" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/c97f947f-f4f5-48a9-bd33-553bedaf6214">
+  
 The correct version of code and result:
+  
 <br><img width="1728" alt="截屏2023-06-02 上午11 57 02" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/ffa4e78c-210c-4b73-a6a5-790d1311e0c2">
