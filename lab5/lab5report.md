@@ -21,4 +21,9 @@ I see your code and the error message; think about your current direction; what 
 
 ## Studetent's response
 Yes, my current direction is at grading-area, I have go through the files in grading-area and I cannot find lib which stores Junit file, so I cp the lib into grading-area This solution works.
+here is the file in grading-area before:
+<br><img width="329" alt="截屏2023-06-02 下午2 20 41" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/ce50f51d-44c4-4aae-8de4-7eecdf41d04f">
+after solution:
+<br><img width="329" alt="截屏2023-06-02 下午2 21 09" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/c97f947f-f4f5-48a9-bd33-553bedaf6214">
+The correct version of code and result:
 <br><img width="1728" alt="截屏2023-06-02 上午11 57 02" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/ffa4e78c-210c-4b73-a6a5-790d1311e0c2">
