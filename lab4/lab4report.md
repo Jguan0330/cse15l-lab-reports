@@ -7,8 +7,7 @@
 #access to remore
 ssh cs15lsp23ce@ieng6.ucsd.edu
 <enter>
-<enter the passport of your account> 
-<enter>
+# log in to accout without typing password, see explain below
 ls
 <enter>
 #delete used lab7 file
