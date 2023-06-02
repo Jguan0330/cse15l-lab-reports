@@ -1,8 +1,20 @@
 # Lab5report
 ## student question
-<br><img width="1728" alt="截屏2023-06-02 上午11 45 25" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/b878aef6-c654-4867-a478-2393fda0ba6a">
-<br><img width="932" alt="截屏2023-06-02 上午11 45 35" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/1447328f-efd4-4840-86ec-324d62cc57d6">
 
+What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?
+
+MAC, java, VScode
+
+Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avoid saying “it doesn't work”.
+
+Here is the screenshoot of my code:
+<br><img width="1728" alt="截屏2023-06-02 上午11 45 25" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/b878aef6-c654-4867-a478-2393fda0ba6a">
+I expected to see no error message and the the task can pass, but the error message shows no junit find
+
+Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.
+
+this is error message, and the code is from week6,I bash grader.sh + URLs. My choose URL is correct and expects this to get full or near-to-full credit)
+<br><img width="932" alt="截屏2023-06-02 上午11 45 35" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/1447328f-efd4-4840-86ec-324d62cc57d6">
 
 ## TA's response
 
