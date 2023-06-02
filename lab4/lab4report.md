@@ -50,18 +50,24 @@ bash test.sh
 
 ```
 (cursor should be at top-left)
-<esc> #The Escape key is pressed to ensure the cursor 
-      #is not in any insert or command mode before starting the sequence. 
-43j #The number 43 represents a count, and j moves 
-    #the cursor down one line. So, 43j moves the cursor down 43 lines.
-11l #The number 11 is a count, and l moves the cursor 
-    #one character to the right. Therefore, 11l moves the cursor 11 characters to the right.
-r2 #The r command is used to replace the character under 
-    #the cursor with another character. So, the character under the cursor, which is 1, is replaced with 2.
-:wq #The : puts Vim into command-line mode, and wq 
-    #is a shorthand for the write and quit commands. It saves the file and exits the editor.
-<enter> #Pressing the Enter key executes the command entered 
-        #in the previous step, which is :wq. It saves the changes and exits Vim.
+#The Escape key is pressed to ensure the cursor 
+#is not in any insert or command mode before starting the sequence. 
+<esc> 
+#The number 43 represents a count, and j moves 
+#the cursor down one line. So, 43j moves the cursor down 43 lines.
+43j   
+#The number 11 is a count, and l moves the cursor 
+#one character to the right. Therefore, 11l moves the cursor 11 characters to the right.
+11l   
+#The r command is used to replace the character under 
+#the cursor with another character. So, the character under the cursor, which is 1, is replaced with 2.
+r2    
+#The : puts Vim into command-line mode, and wq 
+#is a shorthand for the write and quit commands. It saves the file and exits the editor.
+:wq   
+#Pressing the Enter key executes the command entered 
+#in the previous step, which is :wq. It saves the changes and exits Vim.
+<enter> 
 
 ```
 
