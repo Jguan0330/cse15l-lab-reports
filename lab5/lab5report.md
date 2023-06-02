@@ -17,6 +17,8 @@ this is error message, and the code is from week6,I bash grader.sh + URLs. My ch
 <br><img width="932" alt="截屏2023-06-02 上午11 45 35" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/1447328f-efd4-4840-86ec-324d62cc57d6">
 
 ## TA's response
+I see your code and the error message; think about your current direction; what might be some reasons that Junit does not exist in your current direction? As you can see, the provided file of JUnit is at lib. If you have any question free to ask!
 
-## solution
+## Studetent's response
+Yes, my current direction is at grading-area, I have go through the files in grading-area and I cannot find lib which stores Junit file, so I cp the lib into grading-area This solution works.
 <br><img width="1728" alt="截屏2023-06-02 上午11 57 02" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/ffa4e78c-210c-4b73-a6a5-790d1311e0c2">
