@@ -17,11 +17,12 @@ rm -rf lab7
 ls
 <enter>
 ```
-## explain of ssh key
+## explain of ssh key(copy from week7 page)
+#link below https://ucsd-cse15l-s23.github.io/week/week7/
 1. In your local terminal, run ssh-keygen
 2. Keep entering <Enter> until the program shows some text it calles the “randomart image”.
 Note the path where the public key is saved (underlined below).
-Image
+<img width="517" alt="截屏2023-06-02 上午10 53 22" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/77b3b648-29ad-40e8-8236-9b80a42a2ecb">
 3. Now, log into your remote course specific account on ieng6
 4. Run mkdir .ssh in the terminal
 5. Logout of your remote account
