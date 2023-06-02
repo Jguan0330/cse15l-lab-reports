@@ -7,6 +7,8 @@
 #access to remore
 ssh cs15lsp23ce@ieng6.ucsd.edu
 <enter>
+<enter the passport of your account> 
+<enter>
 ls
 <enter>
 #delete used lab7 file
@@ -61,6 +63,7 @@ bash test.sh
 11l   
 #The r command is used to replace the character under 
 #the cursor with another character. So, the character under the cursor, which is 1, is replaced with 2.
+#the cursor now point at 1
 r2    
 #The : puts Vim into command-line mode, and wq 
 #is a shorthand for the write and quit commands. It saves the file and exits the editor.
