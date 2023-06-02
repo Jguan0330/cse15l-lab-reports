@@ -36,3 +36,7 @@ here is the file in grading-area before:
 The correct version of code and result:
   
 <br><img width="1728" alt="截屏2023-06-02 上午11 57 02" src="https://github.com/Jguan0330/cse15l-lab-reports/assets/114201575/ffa4e78c-210c-4b73-a6a5-790d1311e0c2">
+  
+## Part 2
+I understand the useful function of a terminal and why today people still use this. Through the latter half of my cse15l lab class, the most exciting thing I find is using Vim. It is so fascinating that it allows coding without a mouse, only with a keyboard. Some people say it is useless because it eliminates the use of the mouse. But this application is incredible because the application can be used in top-secret terminals that might differ from modern computers. It is fitted with the airport, making everything possible.
+
